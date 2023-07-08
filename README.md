@@ -4,7 +4,7 @@
 
 ## GÜNCELLEME-
 
-Patika Front-End yolunda HTMLL-CSS-BOOTSTRAP kullanarak yaptığım clone çalışması.
+## Patika Front-End yolunda HTMLL-CSS-BOOTSTRAP kullanarak yaptığım clone çalışması.
 
 ## https://alibatuhansahin.github.io/BeyzanurSaricaogluWebsite/
 
